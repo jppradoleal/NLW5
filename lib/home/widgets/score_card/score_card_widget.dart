@@ -15,7 +15,7 @@ class ScoreCardWidget extends StatelessWidget {
           borderRadius: BorderRadius.circular(15),
         ),
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 8.0),
+          padding: const EdgeInsets.symmetric(horizontal: 24.0),
           child: Row(
             children: [
               Expanded(
